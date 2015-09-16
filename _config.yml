@@ -1,5 +1,5 @@
-name: Twister
-description: a powerful jekyll theme
+name: Roll For Pandas
+description: my boardgame experiences
 url: #place url
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
@@ -11,14 +11,14 @@ author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /img
 author_default_avatar: /profile-pic.jpg
-tumblr: "#"
+# tumblr: "#"
 pinterest: "#"
 instagram: "#"
-twitter: "#"
+twitter: "http://twitter.com/rollforpandas"
 facebook: "#"
-youtube: "#"
-vimeo: "#"
-soundcloud: "#"
+# youtube: "#"
+# vimeo: "#"
+# soundcloud: "#"
 
 encoding: utf-8
 defaults:
