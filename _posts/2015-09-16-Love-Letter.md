@@ -1,7 +1,7 @@
 ---
 author: Rosand
 title: Love Letter
-featimg: 1.jpg
+featimg: 3.jpg
 tags: [Love Letter, Travel Game, Filler Game]
 category: [Hand Management, Player Elimination, Card Game]
 ---
